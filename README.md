@@ -133,7 +133,8 @@ $$ x_1=y_1 \quad \text{and}  \quad x_2 \ge y_2, \quad \text{and } \quad y_1 > z_
 
 4. case - assume
 
-$$ x_1=y_1 \quad \text{and}  \quad x_2 \ge y_2, \quad \text{and } \quad \quad y_1=z_1 \quad \text{and}  \quad y_2 \ge z_2, \quad \text{then} \quad x_1 =y_1=z_1, \quad \text{and} \quad x_2 \ge y_2 \ge z_2 \quad \Rightarrow \quad X \succeq Z.$$
+$$ x_1=y_1 \quad \text{and}  \quad x_2 \ge y_2, \quad \text{and } \quad \quad y_1=z_1 \quad \text{and}  \quad y_2 \ge z_2, \quad \text{then} \quad x_1 =y_1=z_1, \quad \text{and} \quad x_2 \ge y_2 \ge z_2 \quad \Rightarrow \quad X \succeq Z $$
+
 ii)
 
 $$\lim_{n\to\infty} (1-\frac{1}{n},1) = (1,1)$$
