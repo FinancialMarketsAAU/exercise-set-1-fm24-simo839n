@@ -105,9 +105,13 @@ $$ x_1=y_1 \quad \text{and}  \quad x_2 \ge y_2, \quad \text{and } \quad \quad y_
 ii)
 
 $$\lim_{n\to\infty} (1-\frac{1}{n},1) = (1,1)$$
+
 $$ \forall n, (1,0) \succeq (1-\frac{1}{n},1)$$
+
 but 
+
 $$ \lim_{n\to\infty}(1-\frac{1}{n},1) = (1,1) \succeq (1,0)$$
+
 Thus the preference relation is not continuous!
 
 
