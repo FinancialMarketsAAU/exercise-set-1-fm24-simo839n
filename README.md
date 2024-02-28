@@ -183,11 +183,9 @@ $$u'''(x) \ge \frac{(u''(x))^2}{u'(x)} > 0$$
 
 $\textbf{No insurance}$
 
-$\begin{enumerate}$
 1. no loss event occurs, thus the agent remains with wealth $w_0$
 2. A loss event occurs, thus the agent wealths decrease to $w_0 - D$.
 
 The lottery facing her is the list $L= (\pi, 1-\pi)$.
 
-$\end{enumerate}$
 
