@@ -147,4 +147,38 @@ $$ \lim_{n\to\infty}(1-\frac{1}{n},1) = (1,1) \succeq (1,0)$$
 
 The sequence stays in the lower contour set, but the limit is not in the lower contour set. This implies that the lower contour set is not closed, therefore the preference relation is not continuous !
 
+$\textbf{Risk Aversion}$
+
+If u is increasing that means $u'(x)$ is a positive function, furthermore if u is DARA, 
+
+$$-\frac{u''(x)}{u'(x)}$$
+
+Is a decreasing function. Thus the denominator is positive, and the expression is negative, implying that $u''(x)$, must be a positive function, for u to be DARA.
+
+If
+
+$$-\frac{u''(x)}{u'(x)}$$
+
+it implies 
+
+$$\frac{u''(x)}{u'(x)}$$
+
+is increasing. Therefore the derivative must be nonnegative i.e.
+
+$$\frac{d}{dx}\left(-\frac{u''(x)}{u'(x)} \right) \ge 0$$
+
+$$\frac{d}{dx}\left(-\frac{u''(x)}{u'(x)} \right) = \frac{u'''(x)u'(x)-(u''(x))^2}{(u'(x))^2}$$
+
+Thus 
+
+$$\frac{u'''(x)u'(x)-(u''(x))^2}{(u'(x))^2} \ge 0$$
+
+Multiplying by $(u'(x))^2$ yields
+
+$$u'''(x)u'(x)-(u''(x))^2 \ge 0$$
+
+since $(u'(x))^2$ is a positive. This implies
+
+$$u'''(x) \ge \frac{(u''(x))^2}{u'(x)} > 0$$
+
 
